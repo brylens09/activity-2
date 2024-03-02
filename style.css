@@ -1,0 +1,11 @@
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.styled-div {
+    border: 7px solid #373730;
+    background-color: #6c7d83;
+    padding: 20px;
+    text-align: center;
+}
